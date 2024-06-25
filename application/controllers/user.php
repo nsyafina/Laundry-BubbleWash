@@ -16,7 +16,7 @@ class user extends CI_Controller
     $this->m_squrity->getSecurity();
     $isi['user'] = $this->m_dashboard->ambil_data($this->session->userdata('username'));
     $isi['content'] = 'backend/profil/v_profil';
-    $isi['judul'] = '<i class="fas fa-fw fa-box-open"></i> Profile Saya';
+    $isi['judul'] = '<i class="fas fa-fw fa-user"></i> Profile Saya';
     $this->load->view('backend/dashboard', $isi);
   }
 

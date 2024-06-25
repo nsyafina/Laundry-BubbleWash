@@ -911,13 +911,13 @@
       <li>
         <span class="fab-label">Whatsapp</span>
         <div class="fab-icon-holder">
-          <a href="https://wa.me/6285779082884?text=Halo,%20saya%20tertarik%20untuk%20mengetahui%20lebih%20lanjut%20tentang%20layanan%20cucian%20yang%20Anda%20tawarkan.%20Bisakah%20Anda%20memberikan%20informasi%20terkait harga,%20jenis%20layanan,%20dan%20waktu%20pengerjaan?%20Terimakasih."><i class="fa-brands fa-whatsapp" style="font-size: 25px; margin-top: 13px;"></i></a>
+          <a href="https://wa.me/6285811886269?text=Halo,%20saya%20tertarik%20untuk%20mengetahui%20lebih%20lanjut%20tentang%20layanan%20cucian%20yang%20Anda%20tawarkan.%20Bisakah%20Anda%20memberikan%20informasi%20terkait harga,%20jenis%20layanan,%20dan%20waktu%20pengerjaan?%20Terimakasih."><i class="fa-brands fa-whatsapp" style="font-size: 25px; margin-top: 13px;"></i></a>
         </div>
       </li>
       <li>
         <span class="fab-label">Instagram</span>
         <div class="fab-icon-holder">
-          <a href="https://www.instagram.com/bsi_kaliabang/"><i class="fa-brands fa-instagram" style="font-size: 25px; margin-top: 13px;"></i></a>
+          <a href="https://www.instagram.com/laundry_bubblewash?igsh=MnRwZTZncmNlNW5o"><i class="fa-brands fa-instagram" style="font-size: 25px; margin-top: 13px;"></i></a>
         </div>
       </li>
       <li>
